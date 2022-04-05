@@ -1,0 +1,171 @@
+body {
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important;
+}
+.titulo {
+    color: #2684bd;
+    padding-top: 1.3%;
+}
+.valuebox1 {
+    border: 1px solid #aaa;
+    width: 15em;
+    height: 8em;
+    background-color: #D0E4F5;
+    border-radius: 50px 30px 0 30px;
+}
+.valuebox2 {
+    border: 1px solid #aaa;
+    width: 15em;
+    height: 6em;
+    background-color: #D0E4F5;
+    border-radius: 30px 50px 30px 0;
+}
+.valuebox3 {
+    border: 1px solid #aaa;
+    width: 15em;
+    height: 6em;
+    background-color: #D0E4F5;
+    border-radius: 30px 0 30px 50px;
+}
+.valuebox4 {
+    border: 1px solid #aaa;
+    width: 15em;
+    height: 6em;
+    background-color: #D0E4F5;
+    border-radius: 0 30px 50px 30px;
+}
+textarea
+{
+    border: 4px solid #1C6EA4;
+    background-color: #EEEEEE;
+}
+.BoxUp,.CentralBox, .BoxDown {
+    width: 100%;
+}
+.SpaceUpDown {
+    width: 70%;
+}
+.Box1UpDown,.Box2UpDown {
+    width: 200%;
+}
+
+.numeros
+{
+    border: 2px solid #1C6EA4;
+    border-radius: 6px;
+    color:#1C6EA4 ;
+    width: 2.7em;
+}
+
+.buttom1 {
+cursor: pointer;
+ background-color: #1C6EA4;
+ color: white;
+ border-radius: 5px;
+ box-shadow: inset 0 2px 5px 1px #57aae0, 1px 2px 5px 1px #999;
+}
+.bstyle .solid {
+    height: 2.3em;
+    width: 5em;
+    border: 5px solid #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .dotted {
+    height: 2.3em;
+    width: 5em;
+    border: 5px dotted #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .dashed {
+    height: 2.3em;
+    width: 5em;
+    border: 5px dashed #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .double {
+    height: 2.3em;
+    width: 5em;
+    border: 5px double #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .groove {
+    height: 2.3em;
+    width: 5em;
+    border: 5px groove #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .ridge{
+    height: 2.3em;
+    width: 5em;
+    border: 5px ridge #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .inset {
+    height: 2.3em;
+    width: 5em;
+    border: 5px inset #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .outset {
+    height: 2.3em;
+    width: 5em;
+    border: 5px outset #1C6EA4;
+    background: #EEEEEE;
+}
+.bstyle .hidden {
+    height: 2.3em;
+    width: 5em;
+    border: hidden;
+    background: #EEEEEE;
+}
+.bstyle .none {
+    height: 2.3em;
+    width: 5em;
+    border: none;
+    background: #EEEEEE;
+}
+
+.color  {
+    width: 7em;
+    
+}
+.bposition .all {
+    height: 2.3em;
+    width: 5em;
+    border: 5px solid #1C6EA4;
+    background: #EEEEEE;
+}
+.bposition .top {
+    height: 2.3em;
+    width: 5em;
+    border: none;
+    border-top: 5px solid #1C6EA4;
+    background: #EEEEEE;
+}
+.bposition .right {
+    height: 2.3em;
+    width: 5em;
+    border: none;
+    border-right: 5px solid #1C6EA4;
+    background: #EEEEEE;
+}
+.bposition .bottom {
+    height: 2.3em;
+    width: 5em;
+    border: none;
+    border-bottom: 5px solid #1C6EA4;
+    background: #EEEEEE;
+}
+.bposition .left {
+    height: 2.3em;
+    width: 5em;
+    border: none;
+    border-left: 5px solid #1C6EA4;
+    background: #EEEEEE;
+}
+.solid:hover,.dotted:hover,.dashed:hover,.double:hover,.groove:hover,.ridge:hover,.inset:hover,
+.outset:hover,.hidden:hover,.none:hover {
+    background: #D0E4F5;
+}
+.all:hover,.top:hover,.right:hover,.left:hover,.bottom:hover {
+    background: #D0E4F5;
+}
